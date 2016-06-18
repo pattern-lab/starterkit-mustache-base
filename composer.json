@@ -1,0 +1,39 @@
+{
+	"name":             "pattern-lab/starterkit-mustache-base",
+	"description":      "Pattern Lab's Base StarterKit for Mustache.",
+	"keywords":         ["mustache", "pattern lab", "starterkit", "demo"],
+	"homepage":         "http://patternlab.io",
+	"license":          "MIT",
+	"type":             "patternlab-starterkit",
+	"authors": [
+		{
+			"name":         "Dave Olsen",
+			"email":        "dmolsen@gmail.com",
+			"homepage":     "http://dmolsen.com",
+			"role":         "Lead Developer"
+		},
+		{
+			"name":         "Brad Frost",
+			"homepage":     "http://bradfrostweb.com",
+			"role":         "Creator"
+		}
+	],
+	"support": {
+		"issues":         "https://github.com/pattern-lab/starterkit-mustache-base/issues",
+		"wiki":           "http://patternlab.io/docs/",
+		"source":         "https://github.com/pattern-lab/starterkit-mustache-base/releases"
+	},
+	"require": {
+		"pattern-lab/core": "dev-dev",
+		"pattern-lab/patternengine-mustache": "dev-dev"
+	},
+	"extra": {
+		"patternlab": {
+			"dist": {
+				"sourceDir": [
+					{ "*": "*" }
+				]
+			}
+		}
+	}
+}
