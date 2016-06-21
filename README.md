@@ -1,3 +1,6 @@
+![license](https://img.shields.io/github/license/pattern-lab/starterkit-mustache-base.svg?maxAge=2592000)
+[![Packagist](https://img.shields.io/packagist/v/pattern-lab/starterkit-mustache-base.svg?maxAge=2592000)](https://packagist.org/packages/pattern-lab/starterkit-mustache-base) [![Gitter](https://img.shields.io/gitter/room/pattern-lab/front-end.svg?maxAge=2592000)](https://gitter.im/pattern-lab/frontend-viewer)
+
 # Base StarterKit for Mustache
 
 The Base StarterKit for Mustache is meant to be used as a near-blank starting point for Mustache-based projects in Pattern Lab.
