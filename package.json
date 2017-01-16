@@ -1,0 +1,22 @@
+{
+  "name": "starterkit-mustache-base",
+  "version": "3.0.0",
+  "description": "The Mustache-based minimal StarterKit for Pattern Lab.",
+  "main": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pattern-lab/starterkit-mustache-base.git"
+  },
+  "keywords": [
+    "Pattern Lab",
+    "Atomic Design",
+    "Mustache",
+    "Starterkit"
+  ],
+  "author": "Dave Olsen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pattern-lab/starterkit-mustache-base/issues"
+  },
+  "homepage": "https://github.com/pattern-lab/starterkit-mustache-base#readme"
+}
